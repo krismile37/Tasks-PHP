@@ -16,3 +16,4 @@ echo "Общий счет = {$expense};";
 echo " НДС = {$nds};";
 echo " Чаевые = {$gratuity};";
 echo " Итого = {$total}";
+?>
